@@ -15,8 +15,8 @@ const BirthdayWebsite = () => {
   const quotes = [
     "I don't feel embarrassed telling all my friends that you are in charge of my life. I feel lucky and proud to have a woman as hardworking and focused as you are, my Inshira.",
     "To my dearest lifeline, as you blow out the candles today, know that you have ignited a fire in my heart that will forever burn with love for you.",
-    "This day and every day I want to celebrate you because you are my life's cherished gift. And your love is the treasure I'm grateful for daily.",
-    "May the celebration be filled with joy as I extend my heartfelt wishes to the one who holds my heart. Your presence lights up my world.",
+    "Hamaisha Muskrati rahain ap k sath Duniya hai mery ap k chahra bayhad haseen duniya ki sab say Khoobsoorat Mery Azize Jan Hain Inshira G",
+    "Saray Jahan Say khoobsorat Hai Mery Baigum Jan Bohat bohat chahta hun ap Ko lovvvvvveeeeeee Sooo much janu ji Cuteee siiiii Bachi hain Mery Ap 😘😘",
     "Every moment with you feels like a celebration of love, and today is extra special because it's all about you.",
     "Your smile brightens my darkest days, and your love gives me strength to face any challenge.",
     "In you, I found my soulmate, my best friend, and my forever love. Happy Birthday, my dear wife.",

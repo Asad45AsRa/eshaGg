@@ -3,24 +3,26 @@ import { motion } from 'framer-motion';
 import { Card, CardContent } from '@/components/ui/card';
 import Image from 'next/image';
 import Eye  from '../../public/asd.jpeg';
+import asad from '../../public/Eye1.jpg';
+import Gft from '../../public/gft.jpeg'
 
 const BirthdayImages = () => {
   // Enhanced cards array with proper image paths
   const cards = [
     {
       title: "Your Beautiful Eyes",
-      description: "Your eyes sparkle with joy and warmth, lighting up every room you enter.",
-      imageUrl: '/../public/asd.jpeg'
+      description: "In Say Khoobsoorat Ankhain kabi na daikh sakta na Daikh Paya",
+      imageUrl: asad
     },
     {
       title: "Your Lovely Smile",
-      description: "Your smile brightens my world and makes every day special.",
-      imageUrl: "/api/placeholder/400/300"
+      description: "Allah Ki Kasam Say Yeh Chahra Sab say Haseen hai Itna K koi Muqabala is ka kr nhi sakta",
+      imageUrl: Eye
     },
     {
       title: "My Greatest Gift",
-      description: "Having you in my life is the most precious gift I could ever ask for.",
-      imageUrl: "/api/placeholder/400/300"
+      description: "Allah ka dia gya mujay Sab bara inaam Hai yeh Larki Sab say bari mery Naimat",
+      imageUrl: Gft
     }
   ];
 
