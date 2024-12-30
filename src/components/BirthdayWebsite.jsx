@@ -194,7 +194,7 @@ const BirthdayWebsite = () => {
             </CardTitle>
           </CardHeader>
           <CardContent className="p-6 md:p-8">
-            <div className="text-lg md:text-xl text-center italic min-h-[120px] transition-all duration-500 transform hover:scale-105">
+            <div className="text-lg md:text-xl text-center italic min-h-[120px] transition-all duration-500 transform hover:scale-105 text-sky-600">
               {quotes[activeQuote]}
             </div>
           </CardContent>
